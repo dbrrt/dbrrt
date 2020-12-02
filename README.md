@@ -5,3 +5,5 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=authdog&repo=http-headers-check)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dbrrt&repo=chat-app)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dbrrt&repo=jp2-python)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dbrrt&repo=react-markdown-doc)
