@@ -21,7 +21,7 @@
 
 <img src ="https://activity-graph.herokuapp.com/graph?username=dbrrt&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=dbrrt)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dbrrt)](https://github.com/ryo-ma/github-profile-trophy)
 
     
 </p>
