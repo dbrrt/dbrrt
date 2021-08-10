@@ -1,5 +1,8 @@
 ### Hi there, my name is David Barrat 👋
 
+- 🛠 I work mostly on Security and Devops libraries
+- 😄 My pronouns are *&ldquo;he&rdquo;/&ldquo;him&rdquo;*. 
+
 ## Statistics
 
 <div align="left">
