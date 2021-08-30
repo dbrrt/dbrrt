@@ -3,7 +3,7 @@
 - 🛠 I work mostly on Security and Devops libraries
 - 😄 My pronouns are *&ldquo;he&rdquo;/&ldquo;him&rdquo;*. 
 - :fire: I build Cloud native SaaS, preferrably serverless and hosted on AWS, Azure and GCP
-- :book: Keep myself up-to-date with Data Science papers and libraries
+- :book: I try to keep myself up-to-date with Data Science papers and underlying libraries
 
 ## Statistics
 
