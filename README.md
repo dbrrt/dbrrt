@@ -1,4 +1,5 @@
-### Hi there, my name is David Barrat 👋
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=03A062&size=42&width=500&height=76&lines=Hi+there+I'm+David+Barrat" alt="dbrrt" /></h1>
+
 
 - 🛠 I work mostly on Security and Devops libraries
 - 😄 My pronouns are *&ldquo;he&rdquo;/&ldquo;him&rdquo;*. 
